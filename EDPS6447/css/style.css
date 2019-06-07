@@ -1,0 +1,30 @@
+body{
+  background-image: url(../images/webpagepic.png);
+  background-repeat: no-repeat;
+  background-position: right top; 
+  padding-left: 15px;
+}
+
+#logo{
+    padding-top: 12px;
+}
+
+#wma{
+    padding-left: 460px;
+    color: #003956;
+    text-align: end;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    padding: 10px, 15px, 100px, 10px;
+}
+
+.page-link{
+    color: #003956;
+    padding: 8.5, 12, 8.5, 12;
+    height: 58px;
+    border: none;
+    text-align: center; 
+    opacity: 0.75;
+    margin-top: 130px;
+    font-family: 'Lato', sans-serif;
+}
